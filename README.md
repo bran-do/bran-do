@@ -41,7 +41,7 @@ Ah, e pode ficar a vontade pra me chamar no [LinkedIn](linkedin.com/in/felipebra
 
 #### Outras ferramentas e softwares:
 [<img src="https://img.shields.io/badge/pro_tools-purple?style=for-the-badge&logo=pro-tools&logoColor=white" width=95>](https://www.avid.com/pro-tools)
-[<img src="https://img.shields.io/badge/Adobe%20After%20Effects-9999FF.svg?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" width=150>](https://www.adobe.com/br/products/aftereffects.html)
+[<img src="https://img.shields.io/badge/Adobe%20After%20Effects-purple?style=for-the-badge&logo=Adobe%20After%20Effects&logoColor=white" width=150>](https://www.adobe.com/br/products/aftereffects.html)
 [<img src="https://img.shields.io/badge/Adobe%20Premiere%20Pro-navy?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white" width=150>](https://www.adobe.com/br/products/premiere.html)
 [<img src="https://img.shields.io/badge/adobe%20photoshop-blue?style=for-the-badge&logo=adobe%20photoshop&logoColor=white" width=150>](https://www.adobe.com/br/products/photoshop.html)
 [<img src="https://img.shields.io/badge/adobe%20illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobe%20illustrator&logoColor=white" width=150>](https://www.adobe.com/br/products/illustrator.html)

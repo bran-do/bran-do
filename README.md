@@ -1,8 +1,8 @@
 # Oi! 🙂
-Me chamo **Felipe Brandão** e eu sou um **desenvolvedor web full-stack** formado pela **[Trybe](https://www.betrybe.com/)**. <br>
+Me chamo **Felipe Brandão** e eu sou um **desenvolvedor web full-stack** formado pela **[Trybe](https://www.betrybe.com/)**. <br><br>
 Aqui, mantenho de forma organizada os projetos dos quais eu participei ao longo da minha formação e outros projetos pessoais. Venho adquirindo uma grande bagagem de conhecimento em ferramentas de desenvolvimento de software,
 passando por um intenso período de aprendizagem em **back-end**, **front-end**, **ciência da computação** e **ciência de dados**. <br><br>
-Abaixo seguem informações sobre as linguagens que eu uso para desenvolver e os idiomas que falo (no fim das contas é tudo muito parecido, né? 🥸) <br><br>
+Abaixo seguem informações sobre as linguagens que eu uso para desenvolver e os idiomas que falo (no fim das contas é tudo muito parecido, né? 🥸).<br><br>
 Ah, e pode ficar a vontade pra me chamar no [LinkedIn](linkedin.com/in/felipebrandaodasilva) e trocarmos uma ideia; tô sempre em busca de novas oportunidades!
 <br>
 

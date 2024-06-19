@@ -50,7 +50,7 @@ Ah, e pode ficar a vontade pra me chamar no [LinkedIn](linkedin.com/in/felipebra
 
 ## Idiomas
 - 🇧🇷 Português (nativo);
-- 🇬🇧 Inglês (avançando);
+- 🇬🇧 Inglês (avançado);
 - 🇪🇸 Espanhol (avançado);
 - 🇫🇷 Francês (intermediário).
 

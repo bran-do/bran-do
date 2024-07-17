@@ -17,7 +17,6 @@ Ah, e pode ficar a vontade pra me chamar no [LinkedIn](linkedin.com/in/felipebra
 
 #### Front-end:
 [<img src="https://img.shields.io/badge/React-3c3c3c?style=for-the-badge&logo=react&logoColor=61DAFB">](https://pt-br.legacy.reactjs.org/)
-[<img src="https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white">](https://reactrouter.com/en/main)
 [<img src="https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white">](https://redux.js.org/)
 [<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=HTML5&logoColor=white">](https://developer.mozilla.org/pt-BR/docs/Web/HTML)
 [<img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">](https://developer.mozilla.org/pt-BR/docs/Web/CSS)
